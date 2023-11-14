@@ -2,8 +2,8 @@
 
 ## 1 - Descrição dos Exercícios
 
-1. [Link para o desafio]()
-2. [Link para o desafio]()
+1. [k_maior](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+2. [super_pow](https://leetcode.com/problems/super-pow/)
 3. [Link para o desafio]()
 4. [Link para o desafio]()
 
