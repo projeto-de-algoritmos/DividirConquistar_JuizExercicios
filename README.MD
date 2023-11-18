@@ -4,8 +4,8 @@
 
 1. [k_maior](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 2. [super_pow](https://leetcode.com/problems/super-pow/)
-3. [Link para o desafio]()
-4. [Link para o desafio]()
+3. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+4. [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
 
 
 ## 2 - Como executar ?
