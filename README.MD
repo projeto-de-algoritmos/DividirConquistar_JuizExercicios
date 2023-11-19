@@ -34,7 +34,7 @@ python3 <nome_do_arquivo.py> < <nome_do_arquivo.txt>
 
 
 ## 4 - Apresentação
-[Apresentação Dividir e Conquistar]()
+[Apresentação Dividir e Conquistar](https://youtu.be/42vkH7CIx_8)
 
 ## 5 - Integrantes
 
